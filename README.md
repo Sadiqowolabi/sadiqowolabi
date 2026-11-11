@@ -84,6 +84,12 @@ My project areas include:
 - B.Sc. Computer Science and Information Technology – Federal University Dutsin-Ma.
 - National Diploma in Computer Engineering – Nuhu Bamalli Polytechnic, Zaria.
 
+- TS Academy 
+
+- Cisco Network Academy 
+
+-New Horizon Nigeria 
+
 📜 Certifications and Professional Training
 
 - CompTIA Network+
